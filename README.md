@@ -20,6 +20,7 @@ To get started, simply clone this repository to your local machine using the fol
 
 ```bash
 git clone https://github.com/Elie309/homeworks.git
+```
 
 Then, navigate to the project directory of your interest and follow the instructions provided in its README or documentation.
 
